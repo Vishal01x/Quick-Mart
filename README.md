@@ -37,11 +37,11 @@ Quick Mart is a sophisticated e-commerce application designed to offer users a s
 ## Contact
 For further information, questions, or suggestions, please contact:
 
-Kanhaiya Kumar
-* Email: Kanhaiyashukla0.01@gmail.com
-* LinkedIn: https://www.linkedin.com/in/kanhaiya-kumar-507820258/
+Vishal Dangi
+* Email: vishaldangi01x@gmail.com
+* LinkedIn: https://www.linkedin.com/in/vishal-dangi-14805725b/
 
-Project Link: https://github.com/KanhaiyaKumarShukla/Quick-Mart/
+Project Link: https://github.com/Vishal01x/Quick-Mart/
 
 ## Screenshots
 
