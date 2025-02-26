@@ -1,6 +1,15 @@
 # Quick Mart
 Quick Mart is a sophisticated e-commerce application designed to offer users a seamless and intuitive shopping experience. The app integrates a variety of advanced Android development techniques and technologies to ensure robustness and efficiency.
 
+## Tech Stack
+- **Language**: Kotlin
+- **Architecture**: MVVM
+- **Dependency Injection**: Dagger 2, Hilt
+- **Networking**: Retrofit
+- **Authentication**: Firebase Authentication (email, phone, Google, Facebook)
+- **Database**: Firebase Realtime Database
+- **UI**: XML
+
 ## Features
 
 **User Authentication** 
@@ -42,16 +51,6 @@ Quick Mart is a sophisticated e-commerce application designed to offer users a s
 - Integrated **Firebase authentication** and **inventory management**.
 - Improves transaction efficiency by **20%**.
 
-## Tech Stack
-- **Language**: Kotlin
-- **Architecture**: MVVM
-- **Dependency Injection**: Dagger 2, Hilt
-- **Networking**: Retrofit
-- **Authentication**: Firebase Authentication (email, phone, Google, Facebook)
-- **Database**: Firebase Realtime Database
-- **UI**: XML
-
-
 ## Usage
 1. **Authentication**:
     - Register and log in using email, phone number, Google, or Facebook.
@@ -62,6 +61,12 @@ Quick Mart is a sophisticated e-commerce application designed to offer users a s
 3. **Manage Account**:
     - View and edit user details.
     - Manage wish lists and order history.
+
+## Why Use ProductHive?
+- Bridges the gap between retailers and customers for product feedback and modifications.
+- Combines e-commerce and market research, reducing costs and increasing efficiency.
+- Scalable & Maintainable Architecture using MVVM and Dagger Hilt.
+- Real-time updates with Firebase and Retrofit for seamless user experience.
 
 ## Contact
 For further information, questions, or suggestions, please contact:
